@@ -1,7 +1,7 @@
 Приветствие ## плейсхолдер ##
 __________________________________________________________________________________________________________________________
 
-<p align="center"> <a href="https://github.com/urzumo/certificates_and_diplomas">Сертификаты и дипломы</a></p>
+<p align="center"> <a href="https://github.com/urzumo/certificates_and_diplomas">Дипломы и сертификаты</a></p>
 <p align="center"> <a href="https://www.kaggle.com/antonrdblck">Профиль на Kaggle</a></p>
 
 __________________________________________________________________________________________________________________________
