@@ -7,9 +7,8 @@
 __________________________________________________________________________________________________________________________
 
 ## Образование и достижения 
-<p align="center"> <a href="https://github.com/urzumo/diplomas_and_certificates">Дипломы и сертификаты</a></p>
-<p align="center"> <a href="https://www.kaggle.com/antonrdblck">Профиль на Kaggle</a></p>
-
+01. [Дипломы и сертификаты](https://github.com/urzumo/diplomas_and_certificates)  
+02. [Профиль на Kaggle](https://www.kaggle.com/antonrdblck)  
 __________________________________________________________________________________________________________________________
 
 ## Реализованные проекты
