@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 | **Проект** | **Описание проекта** | 
 | -------------------- | --------------------- |
-| 01. Рекомендация тарифов клиентам телекома ([github] / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/c7590ad4c28353f9965df797ede9b2f349f4571f/projects/rekomendaciya_tarifov_git.ipynb)|Простая классификация и подбор гиперпараметра|
+| 01. Рекомендация тарифов клиентам телекома ([github] / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/c7590ad4c28353f9965df797ede9b2f349f4571f/projects/rekomendaciya_tarifov_git.ipynb))|Простая классификация и подбор гиперпараметра|
 __________________________________________________________________________________________________________________________
 
 ### Data Analysis 
