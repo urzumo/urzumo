@@ -9,8 +9,8 @@ ________________________________________________________________________________
 ## Образование и достижения 
 01. [Дипломы и сертификаты](https://github.com/urzumo/diplomas_and_certificates)  
 02. [Профиль на Kaggle](https://www.kaggle.com/antonrdblck)  
-03. <a href="https://www.kaggle.com/antonrdblck"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
-04. <a href="https://leetcode.com/Urzum/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
+03. [Профиль на LeetCode](https://leetcode.com/Urzum)  
+04. [Профиль на Stepik](https://stepik.org/users/398556532)  
 __________________________________________________________________________________________________________________________
 
 ## Репозитории проектов
