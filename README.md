@@ -33,11 +33,6 @@ ________________________________________________________________________________
 
 ### Data Analysis 
 
-Этот репозиторий содержит все завершенные проекты по data analysis, выполненные в Jupiter notebook (дата сеты не приложены). 
-Ниже можно найти ссылки на каждый проект.
-
-## Завершенные проекты
-
 | **Проект** | **Описание проекта** | 
 | -------------------- | --------------------- |
 | 01. Исследование надежности клиентов банка ([github](https://github.com/urzumo/data_analysis_projects/tree/main/nadeghnost_clientov_banka) / [nbviewer](https://nbviewer.org/github/urzumo/data_analysis_projects/blob/c0caa9310425f31049e1efad776a067f18bfaafd/nadeghnost_clientov_banka/issledovanie_nadegnosti_zaemshika_git.ipynb))|Анализ, стемматизация, выявление лемм|
