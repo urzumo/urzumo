@@ -16,6 +16,7 @@ ________________________________________________________________________________
 01. [Репозитарий проектов Data Science: Deep Learning](https://github.com/urzumo/deep_learning_projects)  
 02. [Репозитарий проектов Data Science: классический ML](https://github.com/urzumo/data_science_projects)  
 03. [Репозитарий проектов Data Analysis](https://github.com/urzumo/data_analysis_projects)  
+04. [Алгоритмы](https://github.com/urzumo/data_analysis_projects)  
 __________________________________________________________________________________________________________________________
 
 ## Завершенные проекты
