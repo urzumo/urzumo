@@ -14,8 +14,8 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________
 
 ## Репозитории проектов
-01. [Репозитарий ML-проектов: Computer Vision](https://github.com/urzumo/cv_projects)  
-02. [Репозитарий ML-проектов: NLP](https://github.com/urzumo/nlp_projects)  
+01. [Репозитарий ML-проектов: NLP](https://github.com/urzumo/nlp_projects)  
+02. [Репозитарий ML-проектов: Computer Vision](https://github.com/urzumo/cv_projects)  
 03. [Репозитарий проектов Data Science: классический ML](https://github.com/urzumo/data_science_projects)  
 04. [Репозитарий проектов Data Analysis](https://github.com/urzumo/data_analysis_projects)  
 05. [Алгоритмы](https://github.com/urzumo/algorithms)  
